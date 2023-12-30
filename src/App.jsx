@@ -7,7 +7,7 @@ import backgroundImage from "./assets/aa.jpg";
 function App() {
   return (
     <main
-      className="flex min-h-screen flex-col items-center justify-between p-36 select-none bg-cover bg-center "
+      className="flex min-h-screen flex-col items-center justify-between p-34 select-none bg-cover bg-center "
       style={{ backgroundImage: `url(${backgroundImage})` }}
     >
       <section>
