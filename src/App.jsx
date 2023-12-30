@@ -12,7 +12,7 @@ function App() {
     >
       <section>
         {" "}
-        <div className=" self-center h-96 w-96  flex flex-col  -mt-20">
+        <div className=" self-center h-96 w-96  flex flex-col  -mt-16">
           {" "}
           <div className=" self-center flex flex-col ">
             {" "}
