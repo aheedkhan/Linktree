@@ -32,7 +32,7 @@ function App() {
           </div>
           <div className="flex flex-col self-center font-josefin mt-6   p-2">
             <a
-              href="https://www.instagram.com/aheedy_ki_chawlia?igsh=aGdsMG5pZTZjajIy"
+              href="https://www.instagram.com/notaheed?igsh=aGdsMG5pZTZjajIy"
               type="button"
               class="flex  duration-500 text-white active:scale-90 active:bg-slate-500  hover:text-black border border-white hover:bg-white hover:scale-105   font-medium rounded-lg text-sm px-5 py-2.5  mb-2 w-60"
             >
