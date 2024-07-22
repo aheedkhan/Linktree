@@ -18,7 +18,7 @@ function App() {
             {" "}
             <img
               className="self-center h-32 w-32 rounded-full  duration-700  hover:scale-105"
-              src="https://media.licdn.com/dms/image/D5603AQGiUeqopYW5XA/profile-displayphoto-shrink_400_400/0/1673787175307?e=1709164800&v=beta&t=yaOi9qymDqz6_apKGeGe3z26-yhuUKQ-A1c9rzZKl90"
+              src="https://media.licdn.com/dms/image/D5603AQGiUeqopYW5XA/profile-displayphoto-shrink_800_800/0/1673787175307?e=1727308800&v=beta&t=w4FCSbnPX6WJeEF3NDUHp7DcrMmb5iUyrqpLwVfrZNU"
               alt=""
             />
             <h1 className="self-center font-josefin select-none mt-3 mb-2 text-2xl text-green-500 hover:scale-105 duration-1000 ">
