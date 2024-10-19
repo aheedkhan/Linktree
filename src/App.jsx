@@ -4,6 +4,8 @@ import Instagram from "./assets/instagram_1400829.png";
 import LinkedIn from "./assets/linkedin_3536569.png";
 import Xtwitter from "./assets/twitter_5968830.png";
 import backgroundImage from "./assets/aa.jpg";
+import Image from "./assets/Screenshot 2024-10-19 215932.png";
+
 function App() {
   return (
     <main
@@ -18,7 +20,7 @@ function App() {
             {" "}
             <img
               className="self-center h-32 w-32 rounded-full  duration-700  hover:scale-105"
-              src="https://media.licdn.com/dms/image/D5603AQGiUeqopYW5XA/profile-displayphoto-shrink_800_800/0/1673787175307?e=1727308800&v=beta&t=w4FCSbnPX6WJeEF3NDUHp7DcrMmb5iUyrqpLwVfrZNU"
+              src={Image}
               alt=""
             />
             <h1 className="self-center font-josefin select-none mt-3 mb-2 text-2xl text-green-500 hover:scale-105 duration-1000 ">
