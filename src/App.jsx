@@ -16,20 +16,24 @@ function App() {
         {" "}
         <div className=" self-center h-96 w-96  flex flex-col  -mt-20">
           {" "}
-          <div className=" self-center flex flex-col ">
-            {" "}
-            <img
-              className="self-center h-32 w-32 rounded-full  duration-700  hover:scale-105"
-              src={Image}
-              alt=""
-            />
-            <h1 className="self-center font-josefin select-none mt-3 mb-2 text-2xl text-green-500 hover:scale-105 duration-1000 ">
-              @aheed_tahir
-            </h1>{" "}
-            <p className="font-josefin select-none self-center text-teal-400 hover:scale-105 duration-1000 ">
-           '| Cyber Security Enthusiast 🔒| </br>Full Stack Developer 💻 </br>| Lifelong Learner 📚 |'
-            </p>
-          </div>
+        <div className="self-center flex flex-col items-center">
+  <img
+    className="self-center h-32 w-32 rounded-full duration-700 hover:scale-105"
+    src={Image}
+    alt=""
+  />
+  <h1 className="self-center font-josefin select-none mt-3 mb-2 text-2xl text-green-500 hover:scale-105 duration-1000">
+    @aheed_tahir
+  </h1>
+  <p className="font-josefin select-none self-center text-teal-400 hover:scale-105 duration-1000 text-center">
+    | Cyber Security Enthusiast |
+    <br />
+    Full Stack Developer
+    <br />
+    | Lifelong Learner |
+  </p>
+</div>
+
           <div className="flex flex-col self-center font-josefin mt-6   p-2">
             <a
               href="https://www.instagram.com/notaheed?igsh=aGdsMG5pZTZjajIy"
