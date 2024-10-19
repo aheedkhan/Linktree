@@ -26,11 +26,11 @@ function App() {
     @aheed_tahir
   </h1>
   <p className="font-josefin select-none self-center text-teal-400 hover:scale-105 duration-1000 text-center">
-    | Cyber Security Enthusiast |
+    | Cyber Security Enthusiast 🔒 |
     <br />
-    Full Stack Developer
+    Full Stack Developer 💻
     <br />
-    | Lifelong Learner |
+    | Lifelong Learner 📚  |
   </p>
 </div>
 
