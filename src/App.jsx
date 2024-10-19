@@ -27,9 +27,7 @@ function App() {
               @aheed_tahir
             </h1>{" "}
             <p className="font-josefin select-none self-center text-teal-400 hover:scale-105 duration-1000 ">
-              {`-Coding + Coffee = <3`}
-              <br />
-              {`-BS Cyber Security :)`}
+            Cyber Security Enthusiast 🔒 | Full Stack Developer 💻 | Lifelong Learner 📚 |
             </p>
           </div>
           <div className="flex flex-col self-center font-josefin mt-6   p-2">
