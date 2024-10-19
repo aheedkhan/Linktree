@@ -4,7 +4,7 @@ import Instagram from "./assets/instagram_1400829.png";
 import LinkedIn from "./assets/linkedin_3536569.png";
 import Xtwitter from "./assets/twitter_5968830.png";
 import backgroundImage from "./assets/aa.jpg";
-import Image from "./assets/Screenshot 2024-10-19 215932.png";
+import Image from "./assets/Screenshot 2024-10-19 215932-min.png";
 
 function App() {
   return (
